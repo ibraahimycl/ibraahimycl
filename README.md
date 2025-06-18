@@ -5,7 +5,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/L/langchain-logo-73C49B8B0A-seeklogo.com.png" alt="langchain" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEgMTR2LTRIM3Y0aDgiLz48cGF0aCBkPSJNMTkgMTBWNiAxNmg0di00aC00eiIvPjxwYXRoIGQ9Ik0xMiAyMmMtNS41MiAwLTEwLTQuNDgtMTAtMTBTNi40OCAyIDEyIDJzMTAgNC40OCAxMCAxMC00LjQ4IDEwLTEwIDEweiIvPjwvc3ZnPg==" />
+
 </p>
 
 
