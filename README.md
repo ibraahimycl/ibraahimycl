@@ -1,5 +1,12 @@
 <h1 align="center">İbrahim Yücel</h1>
-<h3 align="center">Machine Learning & AI Agent Developer | MIS Student</h3>
+<h3 align="center">Machine Learning & AI Agent Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEgMTR2LTRIM3Y0aDgiLz48cGF0aCBkPSJNMTkgMTBWNiAxNmg0di00aC00eiIvPjxwYXRoIGQ9Ik0xMiAyMmMtNS41MiAwLTEwLTQuNDgtMTAtMTBTNi40OCAyIDEyIDJzMTAgNC40OCAxMCAxMC00LjQ4IDEwLTEwIDEweiIvPjwvc3ZnPg==" />
+</p>
 
 ---
 
