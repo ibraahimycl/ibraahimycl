@@ -5,8 +5,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" alt="langchain" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/L/langchain-logo-73C49B8B0A-seeklogo.com.png" alt="langchain" width="40" height="40"/>
 </p>
+
 
 
 ---
