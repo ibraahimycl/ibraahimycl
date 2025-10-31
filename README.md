@@ -1,5 +1,5 @@
 <h3 align="center">MIS Student focused on Data Science and Computer Vision</h3>
----
+
 ### Connect With Me
 
 <p align="left">
