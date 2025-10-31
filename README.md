@@ -12,17 +12,17 @@
 
 
 ### About Me
-◆ I develop **machine learning and deep learning solutions** using Python, TensorFlow, and scikit-learn.
+• I develop **machine learning and deep learning solutions** using Python, TensorFlow, and scikit-learn.
 
-◆ My work includes time-series forecasting, NLP-based agents, and computer vision projects.
+• My work includes time-series forecasting, NLP-based agents, and computer vision projects.
 
-◆ I have participated in **international and national AI competitions, including the University of Wollongong FlexTrack Challenge and Teknofest AI in Aviation**.
+• I have participated in **international and national AI competitions, including the University of Wollongong FlexTrack Challenge and Teknofest AI in Aviation**.
 
-◆ I also work with MS SQL and PostgreSQL.
+• I also work with MS SQL and PostgreSQL.
 
-◆ I am learning **data engineering basics such as data pipelines and database design**.
+• I am learning **data engineering basics such as data pipelines and database design**.
 
-◆ I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
+• I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
 
 ### Languages and Tools
 
