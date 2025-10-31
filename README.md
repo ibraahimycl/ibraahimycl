@@ -11,7 +11,6 @@
 </p>
 
 
-
 ### About Me
 I develop **machine learning and deep learning solutions** using Python, TensorFlow, and scikit-learn.
 
@@ -23,8 +22,7 @@ I also work with MS SQL and PostgreSQL.
 
 I am learning **data engineering basics such as data pipelines and database design**.
 
-I am improving my data structures and algorithms skills to build efficient and scalable applications.
----
+I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
 
 ### Languages and Tools
 
@@ -37,6 +35,3 @@ I am improving my data structures and algorithms skills to build efficient and s
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </p>
----
-
-
