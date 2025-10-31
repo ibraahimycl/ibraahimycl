@@ -1,12 +1,12 @@
-<h3 align="center">MIS Student focused on Data Science and Computer Vision</h3>
+<h1 align="center">MIS Student focused on Data Science and Computer Vision</h1>
 
 ### Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="http://linkedin.com/in/ibrahimycl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@ibraahimycl">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
   <a href="mailto:ibraahimycl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
