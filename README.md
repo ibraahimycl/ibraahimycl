@@ -9,7 +9,7 @@
 </p>
 
 
-### <h3 align="left">About Me</h3>
+<h2 align="center">About Me</h2>
 **•** I develop **machine learning and deep learning solutions** using Python, TensorFlow, and scikit-learn.
 
 **•** My work includes time-series forecasting, NLP-based agents, and computer vision projects.
@@ -22,7 +22,7 @@
 
 **•** I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
 
-### <h3 align="left">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
