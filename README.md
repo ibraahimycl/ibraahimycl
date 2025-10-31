@@ -10,6 +10,7 @@
 
 
 <h2 align="left">About Me</h2>
+
 **•** I develop **machine learning and deep learning solutions** using Python, TensorFlow, and scikit-learn.
 
 **•** My work includes time-series forecasting, NLP-based agents, and computer vision projects.
