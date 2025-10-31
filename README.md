@@ -11,7 +11,7 @@ to build efficient and scalable applications.
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +24,7 @@ to build efficient and scalable applications.
 ---
 
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="mailto:ibraahimycl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
