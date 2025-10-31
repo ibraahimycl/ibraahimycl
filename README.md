@@ -1,7 +1,5 @@
 <h1 align="center">MIS Student focused on Data Science and Computer Vision</h1>
 
-### Connect With Me
-
 <p align="center">
   <a href="http://linkedin.com/in/ibrahimycl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@ibraahimycl">
@@ -11,7 +9,7 @@
 </p>
 
 
-### About Me
+### <h3 align="left">About Me</h3>
 **•** I develop **machine learning and deep learning solutions** using Python, TensorFlow, and scikit-learn.
 
 **•** My work includes time-series forecasting, NLP-based agents, and computer vision projects.
@@ -24,7 +22,7 @@
 
 **•** I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
 
-### Languages and Tools
+### <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
