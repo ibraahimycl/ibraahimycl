@@ -1,4 +1,4 @@
-<h1 align="center">MIS Student focused on Data Science and Computer Vision</h1>
+<h1 align="center">Data Scientist & Engineer | MLOps • Computer Vision • Pipelines</h1>
 
 <p align="center">
   <a href="http://linkedin.com/in/ibrahimycl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -19,7 +19,7 @@
 
 **•** I also work with **SQL**.
 
-**•** I am learning **data engineering** basics such as **data pipelines** and **database design**.
+**•** I am learning **data engineering** basics such as **data pipelines**, **stream processing with Apache Kafka**, and **containerization with Docker**.
 
 **•** I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
 
@@ -32,5 +32,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
 </p>
