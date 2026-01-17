@@ -17,8 +17,6 @@
 
 **•** I have participated in **international** and **national AI competitions, including the University of Wollongong FlexTrack Challenge and Teknofest AI in Aviation**.
 
-**•** I also work with **SQL**.
-
 **•** I am learning **data engineering** basics such as **data pipelines**, **stream processing with Apache Kafka**, and **containerization with Docker**.
 
 **•** I am improving my **data structures and algorithms** skills to build efficient and scalable applications.
