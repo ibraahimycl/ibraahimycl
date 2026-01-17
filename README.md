@@ -11,15 +11,15 @@
 
 <h2 align="left">About Me</h2>
 
-**•** I develop machine learning and deep learning solutions using Python, TensorFlow, and scikit-learn.
+**•** I develop ML/DL solutions using Python, TensorFlow, and scikit-learn.
 
-**•** My work includes time-series forecasting, NLP-based agents, and computer vision projects.
+**•** I build end-to-end solutions: data pipelines, ML models, and computer vision systems.
 
-**•** I have participated in international and national AI competitions, including the University of Wollongong FlexTrack Challenge and Teknofest AI in Aviation.
+**•** I competed in FlexTrack Challenge (University of Wollongong, Australia) and Teknofest AI in Aviation.
 
-**•** I am learning data engineering basics such as data pipelines, stream processing with Apache Kafka, and containerization with Docker.
+**•** Learning data pipelines, Apache Kafka, and Docker.
 
-**•** I am improving my data structures and algorithms skills to build efficient and scalable applications.
+**•** Improving data structures and algorithms for scalable applications.
 
 <h2 align="left">Languages and Tools</h2>
 
