@@ -11,15 +11,15 @@
 
 <h2 align="left">About Me</h2>
 
-**• I develop ML/DL solutions using Python, TensorFlow, and scikit-learn.**
+**•** I develop ML/DL solutions using Python, TensorFlow, and scikit-learn.
 
-**• I build end-to-end solutions: data pipelines, ML models, and computer vision systems.**
+**•** I build end-to-end solutions: data pipelines, ML models, and computer vision systems.
 
-**• I competed in FlexTrack Challenge (University of Wollongong, Australia) and Teknofest AI in Aviation.**
+**•** I competed in FlexTrack Challenge (University of Wollongong, Australia) and Teknofest AI in Aviation.
 
-**• Learning data pipelines, Apache Kafka, and Docker.**
+**•** Learning data pipelines, Apache Kafka, and Docker.
 
-**• Improving data structures and algorithms for scalable applications.**
+**•** Improving data structures and algorithms for scalable applications.
 
 <h2 align="left">Languages and Tools</h2>
 
