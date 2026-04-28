@@ -1,4 +1,4 @@
-<h1 align="center">Data Scientist & Engineer | MLOps • Computer Vision • Pipelines</h1>
+<h1 align="center">Data Scientist | AI Agent • Computer Vision • BI</h1>
 
 <p align="center">
   <a href="http://linkedin.com/in/ibrahimycl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
